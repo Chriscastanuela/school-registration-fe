@@ -1,11 +1,11 @@
 <a name="mainContents"></a>
 # School Registration Site
 ## [Link to back end](https://github.com/Chriscastanuela/Guild-BE)
-> A js project by Christopher Anthony Castanuela
+> A React.js and Express.js project by [Christopher Anthony Castanuela](https://chriscastanuela.github.io/cac/)
 
 # Contents
 
-[About](#about) | [Built With](#bw) | [Installation](#i) | [Testing](#testing) | [Final Version](#final-version) | [Successes](#successes) | [Link to the Author](#ltta)
+[About](#about) | [Built With](#bw) | [Installation](#i) | [Testing](#testing) | [Final Version](#final-version) | [Successes](#successes)
 
 <a name="about"></a>
 # About 
@@ -73,12 +73,6 @@ The site is able to do the following:
     <li>Fetch courses and their information from an external API</li>
     <li>Post a new course ID to a student</li>
 </ul><br>
-
-<a name="ltta"></a>
-### Link to the Author
-
-[Back to Main](#mainContents)
-> Christopher Castanuela [here](https://chriscastanuela.github.io/cac/)
 
 <!-- ### Deployment
 
